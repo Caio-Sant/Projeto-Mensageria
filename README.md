@@ -1,6 +1,6 @@
 
 <h4 align="center"> 
-	💬 Mensageria 💬
+	📬 Mensageria 📬
 </h4>
 
 <p align="center">
